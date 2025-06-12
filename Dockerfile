@@ -1,7 +1,7 @@
 FROM n8nio/n8n
 
 ENV N8N_BASOC_AUTH_ACTIVE=true
-ENV N8N_BASOC_AUTH_USER=guillermo bentabol
+ENV N8N_BASOC_AUTH_USER=guillermobentabolgarcia@gmail.com
 ENV N8N_BASOC_AUTH_PASSWORD=n8nPassword
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PORT=5678
